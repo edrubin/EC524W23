@@ -1,7 +1,7 @@
 
-# EC 524, Winter 2022
+# EC 524/424, Winter 2023
 
-Welcome to Economics 524 (424): Prediction and machine-learning in econometrics, taught by [Ed Rubin](https://edrub.in) and [Andrew Dickinson](https://economics.uoregon.edu/profile/adickin3/).
+Welcome to Economics 524 (424): Prediction and machine-learning in econometrics, taught by [Ed Rubin](https://edrub.in) and [Brietta Russell](https://economics.uoregon.edu/profile/briettar/).
 
 ## Schedule
 

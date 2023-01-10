@@ -1,0 +1,58 @@
+
+# Temporary holds: Lecture
+
+# Temporary holds: Projects
+
+# Exams
+
+# Project-specific files
+
+# Data
+lecture/010/train.csv
+lecture/010/test.csv
+lecture/010/sample_submission.csv
+
+# History files
+.Rhistory
+*.Rhistory
+.Rapp.history
+
+# Session Data files
+.RData
+*.RData
+*.rdb
+
+# User-specific files
+.Ruserdata
+
+# Output files from R CMD build
+/*.tar.gz
+
+# Output files from R CMD check
+/*.Rcheck/
+
+# RStudio files
+*.Rproj.user/
+.Rproj.user/
+
+# produced vignettes
+vignettes/*.html
+vignettes/*.pdf
+
+# OAuth2 token, see https://github.com/hadley/httr/releases/tag/v0.3
+.httr-oauth
+
+# knitr and R markdown default cache directories
+*_cache/
+/cache/
+
+# Temporary files created by R markdown
+*.utf8.md
+*.knit.md
+
+# R Environment Variables
+.Renviron
+
+# Dropbox
+.DS_Store
+*/.DS_Store
