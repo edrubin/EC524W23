@@ -11,8 +11,8 @@ Welcome to Economics 524 (424): Prediction and machine-learning in econometrics,
 
 **Office hours**
 
-- **Ed Rubin** TBD
-- **Brietta Russell** Th., 2:00p--3:00p, PLC 509
+- **Ed Rubin** Tu., 3:30p–5p, PLC 519
+- **Brietta Russell** Th., 2:00p–3:00p, PLC 507
 
 
 ## Syllabus
