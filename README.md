@@ -62,7 +62,7 @@ Welcome to Economics 524 (424): Prediction and machine-learning in econometrics,
 
 **Supplements** [Unsupervised character recognization](https://colah.github.io/posts/2014-10-Visualizing-MNIST/)
 
-[**002 - Model accuracy**](https://raw.githack.com/edrubin/EC524W22/master/lecture/002/002-slides.html)
+[**002 - Model accuracy**](https://raw.githack.com/edrubin/EC524W23/master/lecture/002/002-slides.html)
 
 1. Model accuracy
 1. Loss for regression and classification
@@ -70,7 +70,7 @@ Welcome to Economics 524 (424): Prediction and machine-learning in econometrics,
 1. The Bayes classifier
 1. KNN
 
-**Formats** [.html](https://raw.githack.com/edrubin/EC524W22/master/lecture/002/002-slides.html) | [.pdf](https://github.com/edrubin/EC524W22/blob/master/lecture/002/002-slides.pdf) | [.Rmd](https://github.com/edrubin/EC524W22/blob/master/lecture/002/002-slides.Rmd)
+**Formats** [.html](https://raw.githack.com/edrubin/EC524W23/master/lecture/002/002-slides.html) | [.pdf](https://github.com/edrubin/EC524W23/blob/master/lecture/002/002-slides.pdf) | [.Rmd](https://github.com/edrubin/EC524W23/blob/master/lecture/002/002-slides.Rmd)
 
 **Readings** 
 
