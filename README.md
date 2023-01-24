@@ -276,6 +276,10 @@ Housing data [download](https://github.com/edrubin/EC524W22/raw/master/lab/001-c
 1. [Finalizing a workflow in `tidymodels`: Example using a random forest](https://raw.githack.com/edrubin/EC524W22/master/lab/007-finalize/finalize_wf.html)
 2. [A short lesson in writing functions and loops in R (continued)](https://raw.githack.com/edrubin/EC524W22/master/lab/006-function_loops/006_functions_loops.html)
 
+## Prediction in the media
+
+- NPR: [She was denied entry to a Rockettes show — then the facial recognition debate ignited](https://www.npr.org/2023/01/21/1150289272/facial-recognition-technology-madison-square-garden-law-new-york)
+- LA Times: [Nobody knows how widespread illegal cannabis grows are in California. So we mapped them](https://www.latimes.com/california/story/2022-09-08/how-we-mapped-illegal-cannabis-farms-in-california)
 
 ## Additional resources
 
