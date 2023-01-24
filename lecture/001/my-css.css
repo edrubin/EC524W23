@@ -266,7 +266,7 @@
   font-style: italic;
   margin-top: -25px;
 }
-.title-slide > h2  {
+.title-slide h2 {
   margin-top: -25px;
   padding-bottom: -20px;
   color: rgba(249, 38, 114, 0.75);

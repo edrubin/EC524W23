@@ -7,7 +7,7 @@ author: "Edward Rubin"
 output:
   xaringan::moon_reader:
     css: ['default', 'metropolis', 'metropolis-fonts', 'my-css.css']
-    # self_contained: true
+    self_contained: true
     nature:
       highlightStyle: github
       highlightLines: true

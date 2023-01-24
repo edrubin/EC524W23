@@ -269,7 +269,7 @@
   font-style: italic;
   margin-top: -25px;
 }
-.title-slide > h2  {
+.title-slide h2 {
   margin-top: -25px;
   padding-bottom: -20px;
   color: rgba(249, 38, 114, 0.75);
@@ -440,4 +440,10 @@ hr, .title-slide h2::after, .mline h1::after {
   background-color: #e5e5e5;
   color: #e5e5e5;
   height: 1px;
+}
+
+@media print {
+  .has-continuation {
+    display: block !important;
+  }
 }
