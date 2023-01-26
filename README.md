@@ -12,7 +12,7 @@ Welcome to Economics 524 (424): Prediction and machine-learning in econometrics,
 **Office hours**
 
 - **Ed Rubin** Tu., 3:30p–5p, PLC 519
-- **Brietta Russell** Th., 2:00p–3:00p, PLC 507
+- **Brietta Russell** Fr., 11:00a–12:00p, PLC 507
 
 
 ## Syllabus
@@ -92,14 +92,14 @@ Welcome to Economics 524 (424): Prediction and machine-learning in econometrics,
 - *ISL* Ch5
 - *Optional:* *100ML* Ch5
 
-[**004 - Linear regression strikes back**](https://raw.githack.com/edrubin/EC524W22/master/lecture/004/004-slides.html)
+[**004 - Linear regression strikes back**](https://raw.githack.com/edrubin/EC524W23/master/lecture/004/004-slides.html)
 
 1. Returning to linear regression
 1. Model performance and overfit
 1. Model selection—best subset and stepwise
 1. Selection criteria
 
-**Formats** [.html](https://raw.githack.com/edrubin/EC524W22/master/lecture/004/004-slides.html) | [.pdf](https://github.com/edrubin/EC524W22/blob/master/lecture/004/004-slides.pdf) | [.Rmd](https://github.com/edrubin/EC524W22/blob/master/lecture/004/004-slides.Rmd)
+**Formats** [.html](https://raw.githack.com/edrubin/EC524W23/master/lecture/004/004-slides.html) | [.pdf](https://github.com/edrubin/EC524W23/blob/master/lecture/004/004-slides.pdf) | [.Rmd](https://github.com/edrubin/EC524W23/blob/master/lecture/004/004-slides.Rmd)
 
 **Readings**
 
@@ -280,6 +280,17 @@ Housing data [download](https://github.com/edrubin/EC524W22/raw/master/lab/001-c
 
 - NPR: [She was denied entry to a Rockettes show — then the facial recognition debate ignited](https://www.npr.org/2023/01/21/1150289272/facial-recognition-technology-madison-square-garden-law-new-york)
 - LA Times: [Nobody knows how widespread illegal cannabis grows are in California. So we mapped them](https://www.latimes.com/california/story/2022-09-08/how-we-mapped-illegal-cannabis-farms-in-california)
+- NYT: [Can A.I. Write Recipes Better Than Humans? We Put It to the Ultimate Test](https://www.nytimes.com/2022/11/04/dining/ai-thanksgiving-menu.html)
+- [ChatGPT](https://chat.openai.com/chat)
+  - NYT: [The Brilliance and Weirdness of ChatGPT](https://www.nytimes.com/2022/12/05/technology/chatgpt-ai-twitter.html)
+  - NPR: [A new AI chatbot might do your homework for you. But it's still not an A+ student](https://www.npr.org/2022/12/19/1143912956/chatgpt-ai-chatbot-homework-academia)
+  - NYT: [How to Use ChatGPT and Still Be a Good Person](https://www.nytimes.com/2022/12/21/technology/personaltech/how-to-use-chatgpt-ethically.html)
+  - NYT: [Don’t Ban ChatGPT in Schools. Teach With It.](https://www.nytimes.com/2023/01/12/technology/chatgpt-schools-teachers.html)
+  - NYT: [How ChatGPT Hijacks Democracy](https://www.nytimes.com/2023/01/15/opinion/ai-chatgpt-lobbying-democracy.html)
+  - NPR: [This 22-year-old is trying to save us from ChatGPT before it changes writing forever](https://www.npr.org/sections/money/2023/01/17/1149206188/this-22-year-old-is-trying-to-save-us-from-chatgpt-before-it-changes-writing-for)
+  - MIT Tech Review: [Here’s how Microsoft could use ChatGPT](https://www.technologyreview.com/2023/01/17/1067014/heres-how-microsoft-could-use-chatgpt/)
+  - [How Should Schools Respond to ChatGPT?](https://www.nytimes.com/2023/01/24/learning/how-should-schools-respond-to-chatgpt.html)
+  - NPR: ['Everybody is cheating': Why this teacher has adopted an open ChatGPT policy](https://www.npr.org/2023/01/26/1151499213/chatgpt-ai-education-cheating-classroom-wharton-school)
 
 ## Additional resources
 
