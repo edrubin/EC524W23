@@ -86,7 +86,7 @@ name: admin-soon
 - .note[Next]
   - .it[ISL] Ch. 6 and 4
 
-.b[Problem set] Posted.
+.b[Problem set] Next problem set very soon!
 
 ---
 name: admin-roadmap
