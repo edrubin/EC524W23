@@ -296,8 +296,8 @@ Housing data [download](https://github.com/edrubin/EC524W22/raw/master/lab/001-c
 
 ## Misc
 
-A funny convsersation with ChatGPT about what is real.
-<br>Parts: [1](https://raw.githack.com/edrubin/EC524W23/master/misc/chatgpt-convo/01.png) [2](https://raw.githack.com/edrubin/EC524W23/master/misc/chatgpt-convo/02.png) [3](https://raw.githack.com/edrubin/EC524W23/master/misc/chatgpt-convo/03.png) [4](https://raw.githack.com/edrubin/EC524W23/master/misc/chatgpt-convo/04.png)
+**A funny convsersation with ChatGPT about what is real.**
+<br>*Parts:* [1](https://raw.githack.com/edrubin/EC524W23/master/misc/chatgpt-convo/01.png) [2](https://raw.githack.com/edrubin/EC524W23/master/misc/chatgpt-convo/02.png) [3](https://raw.githack.com/edrubin/EC524W23/master/misc/chatgpt-convo/03.png) [4](https://raw.githack.com/edrubin/EC524W23/master/misc/chatgpt-convo/04.png)
 
 ## Additional resources
 
