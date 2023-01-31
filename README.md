@@ -282,6 +282,7 @@ Housing data [download](https://github.com/edrubin/EC524W22/raw/master/lab/001-c
 - LA Times: [Nobody knows how widespread illegal cannabis grows are in California. So we mapped them](https://www.latimes.com/california/story/2022-09-08/how-we-mapped-illegal-cannabis-farms-in-california)
 - NYT: [Can A.I. Write Recipes Better Than Humans? We Put It to the Ultimate Test](https://www.nytimes.com/2022/11/04/dining/ai-thanksgiving-menu.html)
 - [ChatGPT](https://chat.openai.com/chat)
+  - Business Insider: [List of exams ChatGPT has passed](https://www.businessinsider.com/list-here-are-the-exams-chatgpt-has-passed-so-far-2023-1?op=1#-5)
   - NPR: ['Everybody is cheating': Why this teacher has adopted an open ChatGPT policy](https://www.npr.org/2023/01/26/1151499213/chatgpt-ai-education-cheating-classroom-wharton-school)
   - [How Should Schools Respond to ChatGPT?](https://www.nytimes.com/2023/01/24/learning/how-should-schools-respond-to-chatgpt.html)
   - Energy Institute: [Can ChatGPT Save the Planet?](https://energyathaas.wordpress.com/2023/01/23/can-chatgpt-save-the-planet/)
@@ -292,6 +293,11 @@ Housing data [download](https://github.com/edrubin/EC524W22/raw/master/lab/001-c
   - NYT: [How to Use ChatGPT and Still Be a Good Person](https://www.nytimes.com/2022/12/21/technology/personaltech/how-to-use-chatgpt-ethically.html)
   - NPR: [A new AI chatbot might do your homework for you. But it's still not an A+ student](https://www.npr.org/2022/12/19/1143912956/chatgpt-ai-chatbot-homework-academia)
   - NYT: [The Brilliance and Weirdness of ChatGPT](https://www.nytimes.com/2022/12/05/technology/chatgpt-ai-twitter.html)
+
+## Misc
+
+A funny convsersation with ChatGPT about what is real.
+<br>Parts: [1](https://raw.githack.com/edrubin/EC524W22/master/misc/chatgpt-convo/01.png) [2](https://raw.githack.com/edrubin/EC524W22/master/misc/chatgpt-convo/02.png) [3](https://raw.githack.com/edrubin/EC524W22/master/misc/chatgpt-convo/03.png) [4](https://raw.githack.com/edrubin/EC524W22/master/misc/chatgpt-convo/04.png)
 
 ## Additional resources
 
