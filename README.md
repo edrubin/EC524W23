@@ -128,14 +128,14 @@ Welcome to Economics 524 (424): Prediction and machine-learning in econometrics,
 - *ISL* Ch4
 - *ISL* Ch6
 
-[**006 - Classification intro**](https://raw.githack.com/edrubin/EC524W22/master/lecture/006/006-slides.html)
+[**006 - Classification intro**](https://raw.githack.com/edrubin/EC524W23/master/lecture/006/006-slides.html)
 
 1. Introduction to classification
 1. Why not regression?
 1. But also: Logistic regression
 1. Assessment: Confusion matrix, assessment criteria, ROC, and AUC
 
-**Formats** [.html](https://raw.githack.com/edrubin/EC524W22/master/lecture/006/006-slides.html) | [.pdf](https://github.com/edrubin/EC524W22/blob/master/lecture/006/006-slides.pdf) | [.Rmd](https://github.com/edrubin/EC524W22/blob/master/lecture/006/006-slides.Rmd)
+**Formats** [.html](https://raw.githack.com/edrubin/EC524W23/master/lecture/006/006-slides.html) | [.pdf](https://github.com/edrubin/EC524W23/blob/master/lecture/006/006-slides.pdf) | [.Rmd](https://github.com/edrubin/EC524W23/blob/master/lecture/006/006-slides.Rmd)
 
 **Readings**
 
@@ -201,7 +201,9 @@ Due Jan 31 by 11:59 PM Pacific
 - [A simple example/walkthrough](https://www.kaggle.com/edwardarubin/project-000-example)
 - [Kaggle notebooks](https://rpubs.com/Clennon/KagNotes) (from Connor Lennon)
 
-**001** [Validation and out-of-sample performance](https://github.com/edrubin/EC524W22/tree/master/projects/project-001)
+**001** [Validation and out-of-sample performance](https://github.com/edrubin/EC524W23/tree/master/projects/project-001)
+
+Due Feb 15 by 11:59 PM Pacific
 
 **002** [Penalized regression, logistic regression, and classification](https://github.com/edrubin/EC524W22/tree/master/projects/project-002)
 
