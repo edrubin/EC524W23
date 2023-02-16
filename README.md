@@ -141,13 +141,13 @@ Welcome to Economics 524 (424): Prediction and machine-learning in econometrics,
 
 - *ISL* Ch4
 
-[**007 - Decision trees**](https://raw.githack.com/edrubin/EC524W22/master/lecture/007/007-slides.html)
+[**007 - Decision trees**](https://raw.githack.com/edrubin/EC524W23/master/lecture/007/007-slides.html)
 
 1. Introduction to trees
 1. Regression trees
 1. Classification trees—including the Gini index, entropy, and error rate
 
-**Formats** [.html](https://raw.githack.com/edrubin/EC524W22/master/lecture/007/007-slides.html) | [.pdf](https://github.com/edrubin/EC524W22/blob/master/lecture/007/007-slides.pdf) | [.Rmd](https://github.com/edrubin/EC524W22/blob/master/lecture/007/007-slides.Rmd)
+**Formats** [.html](https://raw.githack.com/edrubin/EC524W23/master/lecture/007/007-slides.html) | [.pdf](https://github.com/edrubin/EC524W23/blob/master/lecture/007/007-slides.pdf) | [.Rmd](https://github.com/edrubin/EC524W23/blob/master/lecture/007/007-slides.Rmd)
 
 **Readings**
 
@@ -213,7 +213,7 @@ Due Feb 15 by 11:59 PM Pacific
 
 ## Class project
 
-[Outline of the project](https://github.com/edrubin/EC524W22/tree/master/projects/class-project)
+[Outline of the project](https://github.com/edrubin/EC524W23/tree/master/projects/class-project)
 
 **Topic and group due by February 16th**.
 
@@ -280,6 +280,8 @@ Housing data [download](https://github.com/edrubin/EC524W22/raw/master/lab/001-c
 
 ## Prediction in the media
 
+- NPR: [Google's new AI chatbot made a $100 billion mistake in a demo ad](https://www.npr.org/2023/02/09/1155650909/google-chatbot--error-bard-shares)
+- NYT: [Disinformation Researchers Raise Alarms About A.I. Chatbots](https://www.nytimes.com/2023/02/08/technology/ai-chatbots-disinformation.html)
 - NPR: [She was denied entry to a Rockettes show — then the facial recognition debate ignited](https://www.npr.org/2023/01/21/1150289272/facial-recognition-technology-madison-square-garden-law-new-york)
 - LA Times: [Nobody knows how widespread illegal cannabis grows are in California. So we mapped them](https://www.latimes.com/california/story/2022-09-08/how-we-mapped-illegal-cannabis-farms-in-california)
 - NYT: [Can A.I. Write Recipes Better Than Humans? We Put It to the Ultimate Test](https://www.nytimes.com/2022/11/04/dining/ai-thanksgiving-menu.html)
