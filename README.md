@@ -153,14 +153,14 @@ Welcome to Economics 524 (424): Prediction and machine-learning in econometrics,
 
 - *ISL* Ch8.1–Ch8.2
 
-[**008 - Ensemble methods**](https://raw.githack.com/edrubin/EC524W22/master/lecture/008/008-slides.html)
+[**008 - Ensemble methods**](https://raw.githack.com/edrubin/EC524W23/master/lecture/008/008-slides.html)
 
 1. Introduction
 1. Bagging
 1. Random forests
 1. Boosting
 
-**Formats** [.html](https://raw.githack.com/edrubin/EC524W22/master/lecture/008/008-slides.html) | [.pdf](https://github.com/edrubin/EC524W22/blob/master/lecture/008/008-slides.pdf) | [.Rmd](https://github.com/edrubin/EC524W22/blob/master/lecture/008/008-slides.Rmd)
+**Formats** [.html](https://raw.githack.com/edrubin/EC524W23/master/lecture/008/008-slides.html) | [.pdf](https://github.com/edrubin/EC524W23/blob/master/lecture/008/008-slides.pdf) | [.Rmd](https://github.com/edrubin/EC524W23/blob/master/lecture/008/008-slides.Rmd)
 
 **Readings**
 
@@ -297,6 +297,10 @@ Housing data [download](https://github.com/edrubin/EC524W22/raw/master/lab/001-c
   - NYT: [How to Use ChatGPT and Still Be a Good Person](https://www.nytimes.com/2022/12/21/technology/personaltech/how-to-use-chatgpt-ethically.html)
   - NPR: [A new AI chatbot might do your homework for you. But it's still not an A+ student](https://www.npr.org/2022/12/19/1143912956/chatgpt-ai-chatbot-homework-academia)
   - NYT: [The Brilliance and Weirdness of ChatGPT](https://www.nytimes.com/2022/12/05/technology/chatgpt-ai-twitter.html)
+- Military applications
+  - The Drive: [M1 Abrams Tank Tested With Artificial Intelligence Targeting System](https://www.thedrive.com/the-war-zone/m1-abrams-tank-tested-with-artificial-intelligence-targeting-system)
+  - Task and Purpose: [Marines outwitted an AI security camera by hiding in a cardboard box and pretending to be trees](https://taskandpurpose.com/news/marines-ai-paul-scharre/)
+  - WP: [The next U.S. battle tank could use AI to identify targets](https://www.washingtonpost.com/technology/2022/10/12/abramsx-ai-hybrid-military-battle-tank/)
 
 ## Misc
 

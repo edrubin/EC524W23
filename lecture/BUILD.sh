@@ -35,3 +35,13 @@ cd 006
 Rscript --vanilla -e 'xaringan::inf_mr("006-slides.Rmd")'
 Rscript --vanilla -e 'pagedown::chrome_print("006-slides.html", "006-slides.pdf", wait = 4, timeout = 120)'
 cd ..
+# Lecture 007: Render HTML and PDF
+cd 007
+Rscript --vanilla -e 'xaringan::inf_mr("007-slides.Rmd")'
+Rscript --vanilla -e 'pagedown::chrome_print("007-slides.html", "007-slides.pdf", wait = 4, timeout = 120)'
+cd ..
+# Lecture 008: Render HTML and PDF
+cd 008
+Rscript --vanilla -e 'xaringan::inf_mr("008-slides.Rmd")'
+Rscript --vanilla -e 'pagedown::chrome_print("008-slides.html", "008-slides.pdf", wait = 4, timeout = 120)'
+cd ..
