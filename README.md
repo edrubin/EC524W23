@@ -205,7 +205,9 @@ Due Jan 31 by 11:59 PM Pacific
 
 Due Feb 15 by 11:59 PM Pacific
 
-**002** [Penalized regression, logistic regression, and classification](https://github.com/edrubin/EC524W22/tree/master/projects/project-002)
+**002** [Penalized regression, logistic regression, and classification](https://github.com/edrubin/EC524W23/tree/master/projects/project-002)
+
+Due Feb 28 by 11:59 PM Pacific
 
 **003** [Nonlinear predictors](https://github.com/edrubin/EC524W22/tree/master/projects/project-003)
 

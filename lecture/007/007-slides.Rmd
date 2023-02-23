@@ -1278,6 +1278,12 @@ rpart.plot(
 ```
 
 ---
+layout: false
+class: clear, middle
+
+.note[Fun tool] Grant McDermott's [`parttree` package](https://grantmcdermott.com/parttree/).
+
+---
 layout: true
 class: clear, middle
 
