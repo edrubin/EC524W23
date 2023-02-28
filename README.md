@@ -166,14 +166,14 @@ Welcome to Economics 524 (424): Prediction and machine-learning in econometrics,
 
 - *ISL* Ch8.2
 
-[**009 - Support vector machines**](https://raw.githack.com/edrubin/EC524W22/master/lecture/009/009-slides.html)
+[**009 - Support vector machines**](https://raw.githack.com/edrubin/EC524W23/master/lecture/009/009-slides.html)
 
 1. Hyperplanes and classification
 2. The maximal margin hyperplane/classifier
 3. The support vector classifier
 4. Support vector machines
 
-**Formats** [.html](https://raw.githack.com/edrubin/EC524W22/master/lecture/009/009-slides.html) | [.pdf](https://github.com/edrubin/EC524W21/blob/master/lecture/009/009-slides.pdf) | [.Rmd](https://github.com/edrubin/EC524W22/blob/master/lecture/009/009-slides.Rmd)
+**Formats** [.html](https://raw.githack.com/edrubin/EC524W23/master/lecture/009/009-slides.html) | [.pdf](https://github.com/edrubin/EC524W21/blob/master/lecture/009/009-slides.pdf) | [.Rmd](https://github.com/edrubin/EC524W23/blob/master/lecture/009/009-slides.Rmd)
 
 **Readings**
 
@@ -209,7 +209,9 @@ Due Feb 15 by 11:59 PM Pacific
 
 Due Feb 28 by 11:59 PM Pacific
 
-**003** [Nonlinear predictors](https://github.com/edrubin/EC524W22/tree/master/projects/project-003)
+**003** [Nonlinear predictors](https://github.com/edrubin/EC524W23/tree/master/projects/project-003)
+
+Due Mar 07 by 11:59 PM Pacific
 
 **004** [Image/multi-class classification (MNIST)](https://github.com/edrubin/EC524W22/tree/master/projects/project-004)
 

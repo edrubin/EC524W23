@@ -22,6 +22,8 @@ I've tried to name the variables with fairly intuitive names, e.g.,
 
 The [table](https://github.com/edrubin/EC524W22/tree/master/projects/project-001#variable-descriptions) at the bottom of this file briefly describes each variable in the dataset. 
 
+**Hint:** Think carefully about whether all the variables should be used as predictors.
+
 **Note:** You can work on this project however you like (RStudio, Kaggle, etc.). Just make sure you can submit (on Canvas) a nice document with your answers, R code, and figures. The submission can be a file (e.g., a knitted PDF) or a link (e.g., to a Kaggle notebook or hosted )
 
 ## Part 0: Setting up

@@ -17,6 +17,8 @@ The outcome you are predicting  is `i_republican_2016`. This variable is a simpl
 
 **Note:** You can work on this project however you like (RStudio, Kaggle, etc.). Just make sure you can submit (on Canvas) a nice document with your answers, R code, and figures. The submission can be a file (e.g., a knitted PDF) or a link (e.g., to a Kaggle notebook or hosted )
 
+**Hint:** Think carefully about whether all the variables should be used as predictors.
+
 ## Part 1: Penalized regression
 
 **01\.** Using 5-fold cross validation: tune a Lasso regression model. (Don't forget: You can add interactions, transformations, etc. in your `recipe`. You'll also want to standardize your variables.)
