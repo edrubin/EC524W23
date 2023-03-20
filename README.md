@@ -221,7 +221,19 @@ Due Mar 07 by 11:59 PM Pacific
 
 **Topic and group due by February 16th**.
 
-**Final project submission due by midnight on March 9th.**
+**Final project submission due by midnight on March 16th.**
+
+## Final exam
+
+[**Take-home portion**](https://github.com/edrubin/EC524W23/tree/master/exam/take-home/README.md)
+<br>
+*Submit on Canvas by 11:59 pm Pacific on Thursday, 23 March 2023*
+<br>
+*Weight:* Approximately 25%
+
+**In-class portion**
+<br>Tuesday (21 March) at 8:30 am (PLC 410) *or* Thursday (23 March) at 8:00 am (Lillis 175)
+<br>*Weight:* Approximately 75%
 
 ## Lab notes
 
