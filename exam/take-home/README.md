@@ -16,7 +16,7 @@ The original data come from the [CDC's National Vital Statistics System (NVSS)](
 
 You are going to be predicting `dbwt` (dry birthweight) using the 224 other variables in the dataset. Make sure you at least skim the codebook: some of the variables are going to be more helpful than others. You will also find that some are missing many observations—and you probably do not want always want to impute the missing values.
 
-**Warning:** Because there are 10,000 obserations and many predictors, some of your models may take a little while to run. Be careful with how many hyperparameters you are trying... and which ones you try.
+**Warning:** Because there are 10,000 observations and many predictors, some of your models may take a little while to run. Be careful with how many hyperparameters you are trying... and which ones you try.
 
 ## Tasks
 
