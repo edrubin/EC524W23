@@ -8,6 +8,8 @@ You are going to build a few statistical models to predict individual babies' bi
 
 The data (contained in [`data-final.csv`](https://github.com/edrubin/EC524W23/blob/master/exam/take-home/data-final.csv)) come from a random subset of 10,000 births in the United States during 2021.
 
+*Note:* If you're having trouble downloading the file with the link above, try [this link](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/edrubin/EC524W23/blob/626cf8b30a770055c04ea48174f67f1441bf8ee5/exam/take-home/data-final.csv) or download it from Canvas. 
+
 I downloaded the data from the [National Bureau of Economic Research (NBER)'s server](https://www.nber.org/research/data/vital-statistics-natality-birth-data). They provide a nice [codebook](https://data.nber.org/nvss/natality/code/nat2021us.html).
 
 The original data come from the [CDC's National Vital Statistics System (NVSS)](https://www.cdc.gov/nchs/nvss/birth_methods.htm#anchor_1551744577970), which also has a [nice codebook](https://www.cdc.gov/nchs/data_access/vitalstatsonline.htm) (see the *User's Guide* for 2021). 
